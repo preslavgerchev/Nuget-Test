@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PackageId>PreslavGerchev.NugetTest</PackageId>
+    <Description>This some test right here</Description>
+    <Authors>Preslav Gerchev</Authors>
+    <RepositoryUrl>https://github.com/preslavgerchev/NugetTest</RepositoryUrl>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,12 @@
+C:\Projects\github\nuget-test\NugetTest\bin\Debug\net5.0\NugetTest.deps.json
+C:\Projects\github\nuget-test\NugetTest\bin\Debug\net5.0\NugetTest.dll
+C:\Projects\github\nuget-test\NugetTest\bin\Debug\net5.0\ref\NugetTest.dll
+C:\Projects\github\nuget-test\NugetTest\bin\Debug\net5.0\NugetTest.pdb
+C:\Projects\github\nuget-test\NugetTest\obj\Debug\net5.0\NugetTest.csprojAssemblyReference.cache
+C:\Projects\github\nuget-test\NugetTest\obj\Debug\net5.0\NugetTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\github\nuget-test\NugetTest\obj\Debug\net5.0\NugetTest.AssemblyInfoInputs.cache
+C:\Projects\github\nuget-test\NugetTest\obj\Debug\net5.0\NugetTest.AssemblyInfo.cs
+C:\Projects\github\nuget-test\NugetTest\obj\Debug\net5.0\NugetTest.csproj.CoreCompileInputs.cache
+C:\Projects\github\nuget-test\NugetTest\obj\Debug\net5.0\NugetTest.dll
+C:\Projects\github\nuget-test\NugetTest\obj\Debug\net5.0\ref\NugetTest.dll
+C:\Projects\github\nuget-test\NugetTest\obj\Debug\net5.0\NugetTest.pdb
